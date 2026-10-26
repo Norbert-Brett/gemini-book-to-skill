@@ -1,0 +1,6 @@
+{
+  "name": "gemini-book-to-skill",
+  "version": "1.4.0",
+  "description": "Turn any technical book, PDF, EPUB, DOCX, or documentation folder into a structured, on-demand Gemini and Google Antigravity skill with chapters, mental models, glossary, patterns, and cheatsheet. Free, MIT.",
+  "contextFileName": "rules/GEMINI.md"
+}

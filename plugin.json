@@ -1,0 +1,12 @@
+{
+  "name": "gemini-book-to-skill",
+  "displayName": "Gemini Book to Skill",
+  "version": "1.4.0",
+  "description": "Turn any technical book, PDF, EPUB, DOCX, or documentation folder into a structured, on-demand Gemini and Google Antigravity skill with chapters, mental models, glossary, patterns, and cheatsheet. Free, MIT.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Use book-to-skill to convert ./my-book.pdf into a structured skill",
+    "Use book-to-skill to analyze ./docs/ and preview the extracted frameworks before generating",
+    "Run book-to-skill --check to see which document extractors are installed"
+  ]
+}
